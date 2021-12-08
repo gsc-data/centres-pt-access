@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/centres-pt-access/static/css/main.98c0f118.chunk.css",
-    "main.js": "/centres-pt-access/static/js/main.93024aed.chunk.js",
-    "main.js.map": "/centres-pt-access/static/js/main.93024aed.chunk.js.map",
+    "main.js": "/centres-pt-access/static/js/main.c510de49.chunk.js",
+    "main.js.map": "/centres-pt-access/static/js/main.c510de49.chunk.js.map",
     "runtime-main.js": "/centres-pt-access/static/js/runtime-main.eb34bfd5.js",
     "runtime-main.js.map": "/centres-pt-access/static/js/runtime-main.eb34bfd5.js.map",
     "static/js/2.9d7a0516.chunk.js": "/centres-pt-access/static/js/2.9d7a0516.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.eb34bfd5.js",
     "static/js/2.9d7a0516.chunk.js",
     "static/css/main.98c0f118.chunk.css",
-    "static/js/main.93024aed.chunk.js"
+    "static/js/main.c510de49.chunk.js"
   ]
 }
